@@ -4,7 +4,7 @@ Este é um projeto de calculadora simples desenvolvido com HTML, CSS e JavaScrip
 
 ## Demonstração
 
-Você pode visualizar uma demonstração ao vivo da calculadora [aqui](link_para_demo).
+Você pode visualizar uma demonstração ao vivo da calculadora [aqui](https://devjjean.github.io/calculator.github.io/).
 
 ## Funcionalidades
 
